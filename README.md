@@ -51,15 +51,3 @@ while maintaining **lower memory consumption** and **higher efficiency** compare
 
 ---
 
-## 📂 Code
-GitHub Repository: [https://github.com/alanWXZ/AdaSFormer](https://github.com/alanWXZ/AdaSFormer)
-
-```bash
-# Clone the repository
-git clone https://github.com/alanWXZ/AdaSFormer.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run demo
-python demo.py --image path/to/your/image.jpg
