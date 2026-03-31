@@ -63,10 +63,10 @@ If you find our work useful, please consider citing:
   year      = {2026}
 }
 
-@article{AdaSFormer2026_arxiv,
+@inproceedings{AdaSFormer2026_arxiv,
   author  = {Xuzhi Wang and Xinran Wu and Song Wang and Lingdong Kong and Ziping Zhao},
   title   = {AdaSFormer: Adaptive Serialized Transformers for Monocular Semantic Scene Completion from Indoor Environments},
-  journal = {arXiv preprint arXiv:2603.25494},
+  booktitle = {arXiv preprint arXiv:2603.25494},
   year    = {2026}
 }
 
