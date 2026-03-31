@@ -1,5 +1,11 @@
 # 🚀 AdaSFormer: Adaptive Serialized Transformer for Indoor Monocular Semantic Scene Completion
 
+
+## 🎉 News
+
+- 🔥 Accepted by CVPR 2026 (Feb 2026)
+- 🚀 Code released in March 2026
+
 ## 📌 Overview
 Indoor Monocular Semantic Scene Completion (MSSC) aims to recover a complete 3D semantic scene from a single RGB image. Compared to outdoor settings, indoor scenes exhibit complex spatial layouts, high object density, and severe occlusions, making the task significantly more challenging.
 
