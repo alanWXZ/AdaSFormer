@@ -1,0 +1,14 @@
+# AdaSFormer — pip dependencies (run from repo root or any cwd)
+#
+# Install in this order:
+#   1)  PyTorch + torchvision (CUDA build from https://pytorch.org/ )
+#   2)  spconv2 matching your CUDA, e.g.  pip install spconv-cu118
+#   3)  pip install -r requirements.txt
+
+numpy>=1.19.0
+tqdm>=4.60.0
+tensorboardX>=2.0
+opencv-python-headless>=4.5.0
+Pillow>=8.0.0
+scipy>=1.5.0
+pickle5>=0.0.11
