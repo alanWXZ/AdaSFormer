@@ -41,6 +41,18 @@ Given a single RGB image:
 
 ---
 
+## ⚙️ Installation & Setup
+
+For additional implementation details, please refer to the following GitHub repositories:
+
+- ISO repository: https://github.com/hongxiaoy/ISO  
+  Provides instructions for installation, dataset preparation, and environment configuration.
+
+- SATNet repository: https://github.com/ShiceLiu/SATNet  
+  Implements 2D–3D pixel-to-voxel mapping.
+
+
+
 ## 🏆 Results
 AdaSFormer achieves **state-of-the-art performance** on:
 
