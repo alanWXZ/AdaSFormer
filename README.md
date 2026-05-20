@@ -37,7 +37,7 @@ Given a single RGB image:
    - Convolution modules → refine local geometry  
 4. A lightweight decoder produces final semantic scene completion results
 
-![Framework Illustration](./figures/framework.png)  <!-- 可替换为你的结构图路径 -->
+![Framework Illustration](framework.pdf)  <!-- 可替换为你的结构图路径 -->
 
 ---
 
